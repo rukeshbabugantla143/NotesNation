@@ -1,0 +1,7 @@
+{
+  "name": "NotesNation",
+  "description": "A centralized, India-wide platform for students to share, discover, and download high-quality study notes across Engineering, Degree, Medical, Nursing, and Intermediate streams.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
